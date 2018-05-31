@@ -2,6 +2,9 @@ A simple Weather Forecast app, where the user can enter the name of a place in G
 
 This app was developed following Udemy's [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/t/lecture/6994532?start=0) tutorial, with the aim of improving my understanding of React and Redux.
 
+
+Boilerplate: [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter)
+
 ## Getting started
 Follow the instructions below to download a copy of the project and run it locally.
 
