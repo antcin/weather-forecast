@@ -19,5 +19,5 @@ cd weather-forecast
 ```
 ```javascript
 npm install
-npm start // Start the server at localhost:8080
+npm start // Start the server at localhost:8000
 ```
